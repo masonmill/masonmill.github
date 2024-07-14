@@ -1,5 +1,5 @@
 ---
-title: Thread Library (C, C++)
+title: Thread Library
 date:
 external_link:
 tags:

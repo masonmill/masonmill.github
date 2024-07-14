@@ -1,5 +1,6 @@
 ---
 title: Virtual Memory Pager
+date:
 external_link:
 tags:
   - Operating Systems
