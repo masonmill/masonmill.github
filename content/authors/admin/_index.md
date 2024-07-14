@@ -156,4 +156,4 @@ work:
 
 ## About Me
 
-Mason Miller is a student studying computer science at the University of Michigan in Ann Arbor. His academic interests include operating systems, distributed systems, and networking. He conducts operating systems research with The Ordered Systems Lab, aiming to enhance performance and efficiency in system-level programming.
+Mason Miller is a third-year student studying Computer Science at the University of Michigan in Ann Arbor. His academic interests include systems programming and operating systems development. He conducts operating systems research with The Ordered Systems Lab, aiming to enhance performance and efficiency in system-level programming.
