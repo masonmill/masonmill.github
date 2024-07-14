@@ -1,5 +1,5 @@
 ---
-title: Multi-Threaded Network File Server (C, C++)
+title: Multi-Threaded Network File Server
 date:
 external_link:
 tags:
