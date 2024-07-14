@@ -46,8 +46,8 @@ sections:
         folders:
           - project
     design:
-      view: article-grid
-      fill_image: false
+      view: card
+      fill_image: true
       columns: 3
   # - block: markdown
   #   content:
