@@ -3,6 +3,7 @@ title: Thread Library (C, C++)
 date:
 external_link:
 tags:
+  - Operating Systems
   - Thread Life Cycle
   - CPU Management
   - Synchronization

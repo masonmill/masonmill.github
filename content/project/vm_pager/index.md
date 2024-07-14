@@ -1,8 +1,9 @@
 ---
-title: Virtual Memory Pager (C, C++)
+title: Virtual Memory Pager
 date:
 external_link:
 tags:
+  - Operating Systems
   - Virtual Memory
   - Process Life Cycle
   - Paging

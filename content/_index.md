@@ -40,7 +40,7 @@ sections:
       is_education_first: false
   - block: collection
     content:
-      title: Selected Projects
+      title: Featured Projects
       text: ""
       filters:
         folders:
