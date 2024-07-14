@@ -38,17 +38,17 @@ sections:
       date_format: "January 2006"
       # Education or Experience section first?
       is_education_first: false
-  - block: collection
-    content:
-      title: Featured Projects
-      text: ""
-      filters:
-        folders:
-          - project
-    design:
-      view: card
-      fill_image: true
-      columns: 3
+  # - block: collection
+  #   content:
+  #     title: Featured Projects
+  #     text: ""
+  #     filters:
+  #       folders:
+  #         - project
+  #   design:
+  #     view: article-grid
+  #     fill_image: true
+  #     columns: 3
   # - block: markdown
   #   content:
   #     title: "📚 My Research"
