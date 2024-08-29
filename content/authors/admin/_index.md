@@ -41,10 +41,10 @@ profiles:
 interests:
   - Operating Systems
   - Distributed Systems
-  - Networking
+  - Computer Architecture
 
 education:
-  - area: BSc Computer Science
+  - area: BS Computer Science
     institution: University of Michigan
     date_start: 2022-08-01
     date_end: 2026-05-01
@@ -52,11 +52,12 @@ education:
       GPA: 3.87/4.00
 
       Coursework:
-      - EECS 482: Operating Systems
-      - EECS 498: Advanced OS Projects
+      - EECS 470: Computer Architecture
+      - EECS 482: Intro to Operating Systems
+      - EECS 498: Advanced Operating Systems Projects
       - EECS 485: Web Systems
-      - EECS 370: Intro to Computer Architecture
-      - EECS 376: Theory of Computer Science
+      - EECS 370: Intro to Computer Organization
+      - EECS 376: Foundations of Computer Science
       - EECS 281: Data Structures and Algorithms
 work:
   - position: Research Assistant
@@ -64,6 +65,13 @@ work:
     company_url: "https://orderlab.io/"
     company_logo: ""
     date_start: 2024-05-01
+    date_end: ""
+    summary: ""
+  - position: ECAS Tutor
+    company_name: Engineering Center for Academic Success
+    company_url: "https://ecas.engin.umich.edu/"
+    company_logo: ""
+    date_start: 2024-08-01
     date_end: ""
     summary: ""
   - position: Research Assistant
@@ -75,7 +83,7 @@ work:
     summary: ""
   - position: Computer Consultant
     company_name: EECS DCO
-    company_url: "hhttps://www.eecs.umich.edu/dco/about.php"
+    company_url: "hhttps://www.eecs.umich.edu/dco/"
     company_logo: ""
     date_start: 2022-06-01
     date_end: 2023-05-01
