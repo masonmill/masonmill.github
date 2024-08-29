@@ -54,14 +54,14 @@ education:
       Coursework:
       - EECS 470: Computer Architecture
       - EECS 482: Intro to Operating Systems
-      - EECS 498: Advanced Operating Systems Projects
+      - EECS 498-002: Advanced Operating Systems Projects
       - EECS 485: Web Systems
       - EECS 370: Intro to Computer Organization
       - EECS 376: Foundations of Computer Science
       - EECS 281: Data Structures and Algorithms
 work:
   - position: Research Assistant
-    company_name: OrderLab
+    company_name: Ordered Systems Lab
     company_url: "https://orderlab.io/"
     company_logo: ""
     date_start: 2024-05-01
