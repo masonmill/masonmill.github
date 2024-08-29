@@ -82,7 +82,7 @@ work:
     date_end: 2023-09-01
     summary: ""
   - position: Computer Consultant
-    company_name: EECS DCO
+    company_name: EECS Departmental Computing Organization
     company_url: "hhttps://www.eecs.umich.edu/dco/"
     company_logo: ""
     date_start: 2022-06-01
