@@ -74,7 +74,7 @@ work:
     date_start: 2024-05-01
     date_end: 2024-12-01
     summary: ""
-  - position: ECAS Tutor
+  - position: Tutor
     company_name: Engineering Center for Academic Success
     company_url: "https://ecas.engin.umich.edu/"
     company_logo: ""
