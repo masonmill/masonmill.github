@@ -164,4 +164,4 @@ work:
 
 ## About Me
 
-Mason Miller is a third-year student studying Computer Science at the University of Michigan in Ann Arbor. His academic interests include systems programming and operating systems development. He is currently working at Qumulo as a Software Development Engineer Intern on the Askew cloud read cache team. Previously, Mason conducted operating system research with the Ordered Systems Lab under Professor Ryan Huang, and provided tutoring through the Engineering Center for Academic Success.
+Mason Miller is a third-year student studying Computer Science at the University of Michigan in Ann Arbor. His academic interests include systems programming and operating systems development. He is currently working at Qumulo as a Software Development Engineer Intern on the Askew cloud read cache team.
