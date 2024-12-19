@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Assistant
+role: Software Development Engineer Intern
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OrderLab
-    url: https://orderlab.io/
+  - name: Qumulo
+    url: https://qumulo.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -54,32 +54,32 @@ education:
       Coursework:
       - EECS 470: Computer Architecture
       - EECS 482: Intro to Operating Systems
-      - EECS 498-002: Advanced Operating Systems Projects
+      - EECS 498: Advanced Operating Systems Projects
       - EECS 485: Web Systems
       - EECS 370: Intro to Computer Organization
       - EECS 376: Foundations of Computer Science
       - EECS 281: Data Structures and Algorithms
 work:
+  - position: Software Development Engineer Intern
+    company_name: Qumulo
+    company_url: "https://qumulo.com/"
+    company_logo: ""
+    date_start: 2025-01-01
+    date_end: ""
+    summary: ""
   - position: Research Assistant
     company_name: Ordered Systems Lab
     company_url: "https://orderlab.io/"
     company_logo: ""
     date_start: 2024-05-01
-    date_end: ""
+    date_end: 2024-12-01
     summary: ""
   - position: ECAS Tutor
     company_name: Engineering Center for Academic Success
     company_url: "https://ecas.engin.umich.edu/"
     company_logo: ""
     date_start: 2024-08-01
-    date_end: ""
-    summary: ""
-  - position: Research Assistant
-    company_name: The Boyle Lab
-    company_url: "https://boylelab.org/"
-    company_logo: ""
-    date_start: 2023-05-01
-    date_end: 2023-09-01
+    date_end: 2024-12-01
     summary: ""
   - position: Computer Consultant
     company_name: EECS Departmental Computing Organization
@@ -164,4 +164,4 @@ work:
 
 ## About Me
 
-Mason Miller is a third-year student studying Computer Science at the University of Michigan in Ann Arbor. His academic interests include systems programming and operating systems development. He conducts operating systems research with the Ordered Systems Lab under Profressor Ryan Huang, aiming to enhance performance and efficiency in system-level programming.
+Mason Miller is a third-year student studying Computer Science at the University of Michigan in Ann Arbor. His academic interests include systems programming and operating systems development. He is currently working at Qumulo as a Software Development Engineer Intern on the Askew cloud read cache team. Previously, Mason conducted operating system research with the Ordered Systems Lab under Professor Ryan Huang, and provided tutoring through the Engineering Center for Academic Success.
