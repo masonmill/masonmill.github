@@ -49,7 +49,7 @@ education:
     date_start: 2022-08-01
     date_end: 2026-05-01
     summary: |
-      GPA: 3.87/4.00
+      GPA: 3.88/4.00
 
       Coursework:
       - EECS 470: Computer Architecture
