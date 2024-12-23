@@ -67,6 +67,13 @@ work:
     date_start: 2025-01-01
     date_end: ""
     summary: ""
+  - position: EECS Tutor
+    company_name: Engineering Center for Academic Success
+    company_url: "https://ecas.engin.umich.edu/"
+    company_logo: ""
+    date_start: 2024-08-01
+    date_end: 2024-12-01
+    summary: ""
   - position: Research Assistant
     company_name: Ordered Systems Lab
     company_url: "https://orderlab.io/"
@@ -74,19 +81,19 @@ work:
     date_start: 2024-05-01
     date_end: 2024-12-01
     summary: ""
-  - position: Tutor
-    company_name: Engineering Center for Academic Success
-    company_url: "https://ecas.engin.umich.edu/"
+  - position: Research Assistant
+    company_name: The Boyle Lab
+    company_url: "https://boylelab.org/"
     company_logo: ""
-    date_start: 2024-08-01
-    date_end: 2024-12-01
+    date_start: 2023-05-01
+    date_end: 2023-09-01
     summary: ""
   - position: Computer Consultant
     company_name: EECS Departmental Computing Organization
-    company_url: "hhttps://www.eecs.umich.edu/dco/"
+    company_url: "https://www.eecs.umich.edu/dco/"
     company_logo: ""
     date_start: 2022-06-01
-    date_end: 2023-05-01
+    date_end: 2022-09-01
     summary: ""
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
